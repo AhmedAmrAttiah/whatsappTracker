@@ -19,7 +19,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import pyscreenshot as ImageGrab
-import Image
+import image
 import pytesseract
 import time
 import datetime
